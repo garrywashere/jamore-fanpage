@@ -1,7 +1,7 @@
 +++
 date = '2025-10-28T01:34:51Z'
 draft = false
-title = ''
+title = 'Home'
 +++
 
 ![cube jamore](/img/jamore-cube.gif)
