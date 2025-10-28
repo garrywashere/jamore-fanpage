@@ -1,4 +1,4 @@
-baseURL = "http://127.0.0.1:1313"
+baseURL = "https://jamore.garrynet.co.uk"
 languageCode = "en-gb"
 title = "Jamore Fanpage"
 theme = "vintage-web-hugo-theme"
