@@ -1,0 +1,12 @@
+:root {
+    --bg-primary: #c0c0c0; /* Default background grey */
+    --bg-secondary: #a0a0a0; /* Slightly darker grey for panels */
+    --bg-window: #ffffff; /* Window background (white) */
+    --text-primary: #000000; /* Standard text */
+    --text-link: #0000ff; /* Classic hyperlink blue */
+    --highlight: #000080; /* Windows 98 dark blue highlight */
+
+    --border-light: #ffffff; /* Top/left edge of buttons */
+    --border-dark: #808080; /* Bottom/right edge of buttons */
+    --border-darker: #404040; /* Inset border */
+}
